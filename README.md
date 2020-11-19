@@ -1,1 +1,1 @@
-# PrExploratory Data Analysis with Sweetvizoject1
+# Exploratory Data Analysis with Sweetvizoject1
